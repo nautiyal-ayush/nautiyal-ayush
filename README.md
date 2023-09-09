@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Nautiyal</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- Skills: Excel-> **Vlookup, Xlookup, Pivot table, Power Pivot**
+<h3 align="left">Skills</h3>
 
-- MySQL-> **Commands, Unions, Window Functions**
+- Excel-> **Vlookup, Xlookup, Pivot table, Power Pivot**
+
+- MySQL-> **Commands(DDL, DML, DCL, DQL, TCL), Unions, Window Functions**
 
 - Power BI-> **DAX , Power Query**
 
 - 📫 How to reach me **ayush.nautiyal13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-nautiyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-nautiyal" height="30" width="40" /></a>
-</p>
 
